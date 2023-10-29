@@ -1,4 +1,4 @@
-[Functional Programming in Lean](./title.md)
+[Lean 中的函数式编程](./title.md)
 [介绍](./introduction.md)
 [致谢](./acknowledgments.md)
 
@@ -68,4 +68,4 @@
   - [特殊类型](programs-proofs/special-types.md)
   - [总结](programs-proofs/summary.md)
 
-[下一步](next-steps.md)
+[后续步骤](next-steps.md)
