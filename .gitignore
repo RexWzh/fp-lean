@@ -2,4 +2,5 @@ functional-programming-lean/book
 *~
 *#
 .#*
-
+build/
+*.olean
