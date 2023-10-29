@@ -139,7 +139,7 @@ Lean的点表示法可以考虑继承关系。
 {{#example_decl Examples/FunctorApplicativeMonad.lean small}}
 ```
 
-评估 `{{#example_in Examples/FunctorApplicativeMonad.lean smallTroll}}` 得到的结果是 `{{#example_out Examples/FunctorApplicativeMonad.lean smallTroll}}`，而尝试评估 `{{#example_in 示例/函子应用单子.lean smallTrollWrong}}` 的结果是：
+评估 `{{#example_in Examples/FunctorApplicativeMonad.lean smallTroll}}` 得到的结果是 `{{#example_out Examples/FunctorApplicativeMonad.lean smallTroll}}`，而尝试评估 `{{#example_in Examples/FunctorApplicativeMonad.lean smallTrollWrong}}` 的结果是：
 
 ```output error
 {{#example_out Examples/FunctorApplicativeMonad.lean smallTrollWrong}}
